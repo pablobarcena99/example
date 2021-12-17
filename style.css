@@ -1,0 +1,80 @@
+/* style.css */
+body{
+  background-color: #896279;
+  color: black;
+  font-size: 30px;
+  font-family: "Roboto" , sans-serif;
+}
+h1{
+  font-family: "Roboto" , sans-serif;
+  color: 283d3b;
+  font-weight: lighter;
+  font-size: 30px;
+}
+h2 {
+  font-family: "Roboto" , sans-serif;
+  color: rgb(40, 40, 40);
+  font-weight: lighter;
+  font-size: 15px;
+}
+a {
+  font-family: "Roboto" , sans-serif;
+  color: whitesmoke;
+  font-size: 40px;
+}
+a:hover {
+  font-family: "Roboto" , sans-serif;
+  text-decoration: none;
+  color: purple;
+  font-size: 30px;
+
+}
+#banner{
+  text-align: center;
+  background-image: url("https://images.pexels.com/photos/844297/pexels-photo-844297.jpeg?cs=srgb&dl=pexels-eberhard-grossgasteiger-844297.jpg&fm=jpg");
+  background-size: cover;
+  padding: 150px;
+  color: white;
+  text-shadow: 1px 1px 5px black;
+}
+#banner h1 {
+  color: white;
+  font-size: 50px;
+}
+#banner p {
+  color: white;
+  opacity: 1;
+  font-size: 30px;
+  font-weight: lighter;
+}
+#footer{
+  padding: 30px;
+  background: rgb(30, 30, 30);
+  color: lightgrey;
+}
+.card{back
+  padding: 50px;
+  font-weight: lighter;
+}
+#footer a {
+  color: lightgrey;
+  font-size: 15px;
+}
+#footer a:hover {
+  color: white;
+}
+.card {
+padding: 50px;
+text-align: center;}
+
+#footer a { 
+text-align: center;
+font-size: 40px; 
+word-spacing: 40px ;
+}
+
+
+
+
+
+
